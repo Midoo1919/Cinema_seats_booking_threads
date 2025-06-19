@@ -53,10 +53,10 @@ If your environment blocks database creation (like some online IDEs or restricte
 
 📁 FILES
 --------
-- `your_filename.py`  — main Python script
+- `main.py`  — main Python script
 - `movie_booking_system.db` — SQLite database (auto-created)
 
 👨‍💻 AUTHOR
 -----------
-Developed by [Your Name]
+Developed by [Ahmed Amr]
 Feel free to customize, expand, or improve the project!
